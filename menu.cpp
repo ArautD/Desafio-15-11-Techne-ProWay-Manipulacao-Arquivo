@@ -26,6 +26,7 @@ do{
         system("pause");
         break;
         case 3:
+        buscarPalavra();
         system("pause");
         break;
         case 4:
