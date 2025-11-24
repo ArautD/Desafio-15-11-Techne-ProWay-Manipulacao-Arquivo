@@ -18,7 +18,7 @@ void contarLinhas(){ //atividade 1 - Contar e mostrar quantas linhas tem um arqu
         contador++;
     }
 
-    std::cout << "O arquivo possui" << contador << "linnhas." <<std::endl;
+    std::cout << "O arquivo possui " << contador << " linnhas." <<std::endl;
 
     arquivo.close();
 }
